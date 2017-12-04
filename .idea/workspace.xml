@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a001bf2-30c6-49cc-b6e3-04ec2af47e36" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/0.5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/3delta-虚部.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/UC截图20171120112600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/there-energy level EIT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/位置-delta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/位置-gamah.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/失谐-delta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/缀饰态-两种方法.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -17,7 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EIT.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0.5.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pictures/0.5.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EIT.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIT.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2816">
@@ -89,6 +105,11 @@
             <path>
               <item name="codes" type="b2602c69:ProjectViewProjectNode" />
               <item name="codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+              <item name="pictures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512404289543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add picture&#10;edited on 2017/12/5 00:20">
+      <created>1512404417352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512404417352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -184,7 +212,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -194,7 +221,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12178517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12178517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -220,7 +247,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add code EIT.py &#10;edited on 2017/12/3 16:14" />
     <MESSAGE value="add codes in EIT.py &#10;edited on 2017/12/5 00:17" />
-    <option name="LAST_COMMIT_MESSAGE" value="add codes in EIT.py &#10;edited on 2017/12/5 00:17" />
+    <MESSAGE value="add picture&#10;edited on 2017/12/5 00:20" />
+    <option name="LAST_COMMIT_MESSAGE" value="add picture&#10;edited on 2017/12/5 00:20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -288,6 +316,11 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/0.5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
